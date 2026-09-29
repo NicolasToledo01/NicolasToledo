@@ -10,7 +10,19 @@
 
 Painel de Escoltas & Monitoramento 
 
-Aplicação em tempo real para orquestrar frotas noturnas, controlo de janelas horárias nos pontos de encontro (Posto Paracambi e CD Meriti : Ex), contagem regressiva de ETA, cálculo de comboios por trechos comuns e formalização de indisciplinas.
+Na logística, saber quem chegou ao ponto de encontro, quem já saiu em rota e quando cada veículo chega ao destino faz toda a diferença. Foi para isso que nasceu o Painel de Escoltas.
 
-Tecnologias: HTML5, CSS3 avançado, JavaScript Vanilla (ES6+), Leaflet.js, OSRM Engine, ExcelJS e jsPDF.
+
+
+### O que o projeto resolve
+
+📍 Calcula a posição e a estimativa de chegada a partir de latitude e longitude, usando tecnologias de rastreamento e rota real por rodovia
+⏱️ Contagem regressiva do tempo limite no ponto de encontro, com alertas de atraso
+👥 Gestão de equipes e da situação de cada escolta: aguardando, no ponto, em rota e concluída
+📥 Importação da planilha de controle e exportação dos dados
+📊 Dashboard e relatório de fim de operação, com PDF e texto pronto para o grupo
+
+
+
+
 
