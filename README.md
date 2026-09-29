@@ -23,6 +23,6 @@ Na logística, saber quem chegou ao ponto de encontro, quem já saiu em rota e q
 📊 Dashboard e relatório de fim de operação, com PDF e texto pronto para o grupo
 
 
-
+![transferir (1)](./transferir%20(1).webp)
 ![Dashboard de fim de operação](./Dashboard%20de%20fim%20de%20operação.webp)
 
