@@ -16,11 +16,11 @@ Na logística, saber quem chegou ao ponto de encontro, quem já saiu em rota e q
 
 ### O que o projeto resolve
 
-📍 Calcula a posição e a estimativa de chegada a partir de latitude e longitude, usando tecnologias de rastreamento e rota real por rodovia
-⏱️ Contagem regressiva do tempo limite no ponto de encontro, com alertas de atraso
-👥 Gestão de equipes e da situação de cada escolta: aguardando, no ponto, em rota e concluída
-📥 Importação da planilha de controle e exportação dos dados
-📊 Dashboard e relatório de fim de operação, com PDF e texto pronto para o grupo
+-📍 Calcula a posição e a estimativa de chegada a partir de latitude e longitude, usando tecnologias de rastreamento e rota real por rodovia
+-⏱️ Contagem regressiva do tempo limite no ponto de encontro, com alertas de atraso
+-👥 Gestão de equipes e da situação de cada escolta: aguardando, no ponto, em rota e concluída
+-📥 Importação da planilha de controle e exportação dos dados
+-📊 Dashboard e relatório de fim de operação, com PDF e texto pronto para o grupo
 
 
 ![transferir (1)](./transferir%20(1).webp)
