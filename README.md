@@ -23,6 +23,11 @@ Na logística, saber quem chegou ao ponto de encontro, quem já saiu em rota e q
 - 📑 **Relatórios gerenciais:** Dashboard e relatório de fim de operação, com PDF e texto pronto para o grupo.
 
 
-![APRESENTACAO.png](./APRESENTACAO.png)
+<div style="display: flex; gap: 10px;">
+  <img alt="Dashboard de fim de operação" src="./Dashboard%20de%20fim%20de%20opera%C3%A7%C3%A3o.webp" width="200">
+  <img alt="Painel e indicadores" src="./Painel%20e%20indicadores.webp" width="200">
+  <img alt="Painel e indicadores" src="./Painel%20e%20indicadores%20-%202.webp" width="200">
+  <img alt="Relatório da operação" src="./Relat%C3%B3rio%20da%20opera%C3%A7%C3%A3o.webp" width="200">
+</div>
 
 
