@@ -24,5 +24,5 @@ Na logística, saber quem chegou ao ponto de encontro, quem já saiu em rota e q
 
 
 
-
+![Dashboard de fim de operação](./Dashboard%20de%20fim%20de%20operação.webp)
 
